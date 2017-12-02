@@ -1,0 +1,23 @@
+body {
+    text-align: center
+}
+
+.thegame {
+    text-align: center;
+}
+
+.opener {
+	left: 200px;
+    position:relative;
+    width: 1000px;
+    height: 300px;
+}
+
+.opentext {
+	color: white;
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 30px;
+    width: 100%
+}
